@@ -1,7 +1,7 @@
 /* eslint-disable */
 const escapeHtml = require("escape-html");
 
-const appleIconSizes = [57, 60, 72, 76, 114, 120, 144, 152, 167, 180, 1024];
+const appleIconSizes = [152, 167, 180];
 
 const appleStartupItems = [
   //
